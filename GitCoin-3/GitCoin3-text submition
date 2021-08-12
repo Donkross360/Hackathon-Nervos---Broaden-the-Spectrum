@@ -1,0 +1,35 @@
+ transactionHash: '0x8f6c8b47b15af12c6e50d053276570136d9254b455b26b5e44a4d67765a1835d'
+ 
+ Deployed contract address: 0x17E2b868575E2661C8e487a95C7eCa7814a09E62
+ 
+ CONTRACT_ABI = [{
+    "inputs": [],
+    "stateMutability": "payable",
+    "type": "constructor"
+  },
+  {
+    "inputs": [
+      {
+        "internalType": "uint256",
+        "name": "x",
+        "type": "uint256"
+      }
+    ],
+    "name": "set",
+    "outputs": [],
+    "stateMutability": "payable",
+    "type": "function"
+  },
+  {
+    "inputs": [],
+    "name": "get",
+    "outputs": [
+      {
+        "internalType": "uint256",
+        "name": "",
+        "type": "uint256"
+      }
+    ],
+    "stateMutability": "view",
+    "type": "function"
+  }]
